@@ -1,0 +1,9 @@
+{
+  "id": "paseo-usage-quota",
+  "name": "Kimi Usage",
+  "description": "Shows Kimi Code quota in Paseo's Usage settings",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.11.0"
+  }
+}
